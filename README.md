@@ -4,7 +4,11 @@ Arduino Bluetooth controlled RC Car
 This Arduino Bluetooth car was built while studying Robotics alongside my other projects. As I learnt more, I made changes and added upgrades to the car, both in the code and the physical build.
 
 
-https://user-images.githubusercontent.com/62521980/213363004-ea40774e-8620-47ea-bf55-155ddb2112b5.mp4
+
+
+https://user-images.githubusercontent.com/62521980/213371227-66ea4873-f39a-4c56-b5a1-c3c3ec81bd64.mp4
+
+
 
 
 
